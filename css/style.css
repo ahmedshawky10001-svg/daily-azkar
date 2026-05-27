@@ -145,8 +145,7 @@ span {
   font-size: 22px;
   font-family: 'Cairo', sans-serif;
 }
-
-/* Index page styles */
+
 .index-body {
   margin: 0;
   height: 100vh;
@@ -217,8 +216,7 @@ span {
   color: #8b6914;
   margin-left: 6px;
 }
-
-/* Responsive */
+
 @media (min-width: 992px) and (max-width: 1199.98px) {
   table {
     padding: 0 25px;
